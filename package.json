@@ -1,0 +1,17 @@
+{
+  "name": "mente-backend",
+  "version": "1.0.0",
+  "description": "backend implementation of mente app",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "repository": "https://github.com/Mente-app/Mente-backend.git",
+  "author": "Obafemi Joseph <obafedance@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
